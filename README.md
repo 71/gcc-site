@@ -6,7 +6,7 @@ Girls Can Code! website
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 
 This repository contains the source of the website of GCC!:
-<https://gcc.prologin.org>.
+<https://girlscancode.fr>.
 
 GCC! is a free computer science summer camp for girls under 18 organised by the
 association [Prologin](https://prologin.org) since 2014.

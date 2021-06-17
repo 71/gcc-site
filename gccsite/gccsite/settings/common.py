@@ -165,7 +165,7 @@ LOGOUT_URL = reverse_lazy('users:logout')
 LOGIN_REDIRECT_URL = reverse_lazy('gcc:index')
 
 # Prologin specific
-SITE_HOST = 'gcc.prologin.org'
+SITE_HOST = 'girlscancode.fr'
 SITE_BASE_URL = 'https://{}'.format(SITE_HOST)
 PROLOGIN_CONTACT_MAIL = 'info@prologin.org'
 DEFAULT_FROM_EMAIL = 'Prologin <{}>'.format(PROLOGIN_CONTACT_MAIL)
